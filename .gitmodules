@@ -1,0 +1,12 @@
+[submodule "pearai-app"]
+	path = pearai-app
+	url = https://github.com/trypear/pearai-app.git
+	branch = main
+[submodule "pearai-submodule"]
+	path = pearai-submodule
+	url = https://github.com/trypear/pearai-submodule.git
+	branch = main
+[submodule "PearAI-Roo-Code"]
+	path = PearAI-Roo-Code
+	url = https://github.com/trypear/PearAI-Roo-Code.git
+	branch = main
